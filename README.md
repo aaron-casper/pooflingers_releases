@@ -11,3 +11,5 @@ Linux users:
 download from the /linux/ folder: 
 - poo-flingers.x86_64
 - poo-flingers.pck
+
+![the game](https://github.com/aaron-casper/pooflingers_releases/blob/main/screencap.png)
