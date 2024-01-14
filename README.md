@@ -28,3 +28,4 @@ Roadmap / Wishlist
 - less wonky physics
 - better models/animations
 - better special effects
+- various bugfixes, too many to list yet
