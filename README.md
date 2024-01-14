@@ -1,8 +1,8 @@
-poo flingers
+poo flingers v0.0.4a
 -
 A simple game about yeeting things at your friends, supports LAN play
 
-Windows users:
+Windows users from the win folder:
 download:
 - poo-flingers.exe
 - poo-flingers.pck
